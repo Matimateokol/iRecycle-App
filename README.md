@@ -16,7 +16,7 @@
 
 
 ## General Information
-- Provide general information about your project here.
+- This project .
 - What problem does it (intend to) solve? The main goal of the application is to solve problem regarding 
 - What is the purpose of your project?
 - Why did you undertake it?
