@@ -1,5 +1,6 @@
 # iRecycle App
 > ![Logo](./Logo.png)
+> 
 > This is a project of an app that is supposed to help people recycle waste correctly. The main idea is to use image recognition and classification models to divide various pieces of trash into plastic, paper, glass and etc. categories.
 > Live demo [_here_](https://marvelapp.com/prototype/7j24jcj). <!-- If you have the project hosted somewhere, include the link here. -->
 
