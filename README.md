@@ -25,6 +25,9 @@
 
 ## Technologies Used
 - Prototyping tool - Marvel (marvelapp.com)
+- HTML5
+- CSS3
+- GIMP
 
 
 ## Features
@@ -35,7 +38,14 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./Screen0.png)
+![Example screenshot](./Screen1.png)
+![Example screenshot](./Screen2.png)
+![Example screenshot](./Screen3.png)
+![Example screenshot](./Screen4.png)
+![Example screenshot](./Screen5.png)
+![Example screenshot](./Screen6.png)
+![Example screenshot](./Screen7.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
@@ -58,7 +68,7 @@ To do:
 ## Acknowledgements
 Give credit here.
 - This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
+- This prototype was build on [tool](https://www.marvelapp.com).
 - Many thanks to...
 
 
